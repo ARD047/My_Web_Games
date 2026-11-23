@@ -1,0 +1,6 @@
+{
+  "name": "Silent Clack",
+  "description": "An ASMR endless tic-tac-toe game against a mathematically unbeatable master bot with escalating pre-game taunts, procedural foley sound packs, and a tactile shop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
